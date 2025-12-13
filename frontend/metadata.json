@@ -1,0 +1,7 @@
+{
+  "name": "EnergyMatch",
+  "description": "A comprehensive renewable energy planner and marketplace for SMEs, powered by Gemini and Web3 principles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

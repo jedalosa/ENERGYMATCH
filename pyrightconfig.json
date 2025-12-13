@@ -1,0 +1,9 @@
+{
+  "include": ["api"],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ]
+}
