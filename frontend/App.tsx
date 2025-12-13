@@ -22,7 +22,7 @@ const LandingPage: React.FC<{ onSelectRole: (role: UserRole) => void }> = ({ onS
       {/* Top Left Logo */}
       <div className="absolute top-6 left-6 z-20">
         <img 
-            src="https://i.ibb.co/3ykzN9S/logo-energymatch.png" 
+            src="https://raw.githubusercontent.com/jedalosa/energymatch/main/frontend/components/logo.png" 
             alt="EnergyMatch Logo" 
             className="h-12 w-auto object-contain" 
         />
@@ -670,7 +670,7 @@ const ProviderDashboard: React.FC<{ onLogout: () => void }> = ({ onLogout }) => 
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                 <div className="flex items-center gap-4">
                     <img 
-                      src="https://i.ibb.co/3ykzN9S/logo-energymatch.png" 
+                      src="https://raw.githubusercontent.com/jedalosa/energymatch/main/frontend/components/logo.png" 
                       alt="EnergyMatch Logo" 
                       className="h-12 w-auto object-contain" 
                     />
@@ -924,7 +924,7 @@ const AdminDashboard: React.FC<{ onLogout: () => void }> = ({ onLogout }) => {
             <header className="flex justify-between items-center">
                 <div className="flex items-center gap-4">
                     <img 
-                      src="https://i.ibb.co/3ykzN9S/logo-energymatch.png" 
+                      src="https://raw.githubusercontent.com/jedalosa/energymatch/main/frontend/components/logo.png" 
                       alt="EnergyMatch Logo" 
                       className="h-12 w-auto object-contain" 
                     />
