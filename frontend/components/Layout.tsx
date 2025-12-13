@@ -24,7 +24,7 @@ export const Layout: React.FC<LayoutProps> = ({ children, currentStep, setCurren
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
               <img 
-                src="https://i.ibb.co/3ykzN9S/logo-energymatch.png" 
+                src="https://raw.githubusercontent.com/jedalosa/energymatch/main/frontend/components/logo.png" 
                 alt="EnergyMatch Logo" 
                 className="h-14 w-auto object-contain" 
               />
